@@ -1,4 +1,4 @@
-% Function which, given n+1 point in R^2, evaluate the interpolating
+% Function which, given n+1 point in R^2, evaluates the interpolating
 % polynomial of degree n. It is calculated using the Lagrange interpolation
 % theorem. We assume that the vectors are all columns.
 
