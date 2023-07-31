@@ -1,4 +1,4 @@
-% Function that approximates the zero of the function of a real variable.
+% Function that approximates a zero of a function with one real variable.
 % The function takes as input:
 % - a string containing the name of the file where the function is
 % described
