@@ -46,3 +46,6 @@ Problem description: finding the function that aproximates better the given poin
 |:-----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|
 |    my_least_squares.m   | Function that solves the least squares problem (general linear case). Valid for the non-degenerate case, i.e. when the rank of the matrix associated with the model is equal to the number of parameters. |   $O(\frac{2n^3}{3})$  |
 | my_least_squares_poly.m | _Function that solves the least squares problem (polynomial case). Valid for the non-degenerate case, i.e. when the rank of the matrix associated with the model is equal to the number of parameters._               |   $O(\frac{2n^3}{3})$  |
+
+## Credits
+Numerical analysis lectures of the computer science course at UniMoRe.
