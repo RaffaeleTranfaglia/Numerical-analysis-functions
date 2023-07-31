@@ -1,4 +1,4 @@
-# Matlab-functions
+# Numerical-analysis-functions
 A collection of functions that solve some known problems in Matlab.  
 Problems and algorithms for solving them are shown below.
 
