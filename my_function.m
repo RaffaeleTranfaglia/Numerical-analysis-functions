@@ -1,4 +1,5 @@
-% This file contains the non-linear function used in bisection method.
+% This file contains the non-linear function used in bisection method and
+% other algorithms that require a function.
 % Enter the function whose root is needed.
 
 function y = my_function(x)
