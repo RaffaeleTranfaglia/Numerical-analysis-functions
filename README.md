@@ -29,7 +29,7 @@ Problem description: finding a zero of a given function.
 The functions whose root is to be found can be stored in *my_function.m*, fruthermore using the script *plot_my_function_zero.m* the calculated root can be graphically displayed.  
 
 ## Interpolation
-Problem description: given n fixed points in the cartesian plane, finding a function $g:[a, b] &#8594 R$ that passes through all the points.  
+Problem description: given n fixed points in the cartesian plane, finding a function $g:[a, b] \rightarrow \mathbb{R}$ that passes through all the points.  
 
 |      **Function**      |                                                                      **Description**                                                                      | **Computational cost** |
 |:----------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------:|
